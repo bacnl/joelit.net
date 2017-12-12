@@ -1,10 +1,10 @@
 {
-  "name": "mean",
+  "name": "Joelit",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "Joelit",
   "scripts": {
     "ng": "ng",
-    "start": "node server",
+    "start": "node server.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
