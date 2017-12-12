@@ -1,8 +1,7 @@
 {
   "name": "Joelit",
   "version": "0.0.0",
-  "license": "Joelit",
-  "main" : "server.js"
+  "license": "Joelit", 
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
